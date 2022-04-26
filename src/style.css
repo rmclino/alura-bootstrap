@@ -2,7 +2,6 @@
     object-fit: cover;
     object-position: 0 80%;
     height: 400px;
-
 }
 .imagem-corrossel-dois {
     object-fit: cover;
@@ -17,4 +16,23 @@
 
 .cor-especial {
     color: darkred;
+}
+
+.botao-cor-especial {
+    background-color: darkred;
+    color: white
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+}
+
+.card-impagem-um {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 200px;
+}
+
+.card-largura {
+    width: 18rem;
 }

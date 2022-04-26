@@ -36,5 +36,12 @@
 }
 
 .card-largura {
-    width: 18rem;
+    max-width: 18rem;
+}
+
+.contato{
+    text-decoration:none;
+}
+.cor-cinzaclaro{
+    background-color: #f8f8f8;
 }

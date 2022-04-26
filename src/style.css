@@ -27,10 +27,12 @@
     border-color: darkred;
 }
 
-.card-impagem-um {
+.card-imagem-um {
     object-fit: cover;
     object-position: 0 80%;
     height: 200px;
+    padding: 0%;
+    margin: 0%;
 }
 
 .card-largura {
